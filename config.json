@@ -1,0 +1,32 @@
+{
+    "botToken": "a discord bot token",
+    "username": "",
+    "realms": [
+        {
+            "realmName": "",
+            "realmCode": "",
+            "logChannels": {
+                "chat": "a discord channel id",
+                "kicks": "",
+                "joinsAndLeaves": ""
+            },
+            "modules": {
+                "deviceFilter": true
+            }
+        }
+    ],
+    "admins": [
+        "a discord user id"
+    ],
+    "whitelist": [
+        "a minecraft username"
+    ],
+    "bannedDevices": [
+        "Windows",
+        "Android",
+        "WindowsPhone",
+        "Win32",
+        "Dedicated",
+        "iOS"
+    ]
+}
